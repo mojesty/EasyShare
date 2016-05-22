@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="D:/Study/[8 семестр]/java/JNativeHook-2.0.3/JNativeHook/jar/jnativehook-2.0.3.jar"/>
+	<classpathentry kind="lib" path="D:/Study/[8 семестр]/java/Workspace/jna-4.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/Study/[8 семестр]/java/Workspace/jna-platform-4.2.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
